@@ -9,3 +9,6 @@ scaler = MinMaxScaler()
 scaled_weight = scaler.fit_transform(weights)
 
 print(scaled_weight)
+
+
+
